@@ -1,2 +1,3 @@
 updater.js
 *.txt
+.DS_Store
